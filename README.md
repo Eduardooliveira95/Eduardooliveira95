@@ -2,7 +2,7 @@
 
 # Olá, meu nome é Eduardo 👋
 
-- 💻 Desenvolvedor Back-end .NET
+- 💻 Desenvolvedor Software
 - Formado em Análise de desenvolvimento de sistemas
 #
 
@@ -14,6 +14,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;	
+![Kotlin](https://img.shields.io/badge/kotlin-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;	
 
 ### Libraries and Frameworks : 
 
