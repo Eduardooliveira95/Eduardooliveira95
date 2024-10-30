@@ -20,6 +20,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;	
 
 ### Database : 
 
